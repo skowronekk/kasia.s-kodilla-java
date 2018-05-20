@@ -868,15 +868,15 @@
       <updated>1525354408143</updated>
       <workItem from="1525354409495" duration="68000" />
       <workItem from="1525369633831" duration="4601000" />
-      <workItem from="1526832754497" duration="3766000" />
+      <workItem from="1526832754497" duration="4436000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8435000" />
+    <option name="totallyTimeSpent" value="9105000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="43" width="1400" height="775" extended-state="0" />
+    <frame x="20" y="43" width="1400" height="775" extended-state="1" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -899,7 +899,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32890856" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32890856" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30530974" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2569956" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
