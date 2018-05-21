@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1d33d68-3b68-4978-b195-7e345447d9ba" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d1d33d68-3b68-4978-b195-7e345447d9ba" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -868,15 +866,15 @@
       <updated>1525354408143</updated>
       <workItem from="1525354409495" duration="68000" />
       <workItem from="1525369633831" duration="4601000" />
-      <workItem from="1526832754497" duration="4436000" />
+      <workItem from="1526832754497" duration="4785000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9105000" />
+    <option name="totallyTimeSpent" value="9454000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="43" width="1400" height="775" extended-state="1" />
+    <frame x="20" y="43" width="1400" height="775" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
