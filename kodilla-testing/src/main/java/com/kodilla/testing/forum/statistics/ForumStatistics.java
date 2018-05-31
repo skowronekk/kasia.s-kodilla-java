@@ -13,9 +13,24 @@ public class ForumStatistics {
         userCount = statistics.usersNames().size();
         postCount = statistics.postsCount();
         commentCount = statistics.commentsCount();
-        avgPostCountPerUser = postCount / userCount;
-        avgCommentCountPerUser = commentCount / userCount;
-        avgCommentCountPerPost = commentCount / postCount;
+
+        if (userCount > 0) {
+            avgPostCountPerUser = postCount / (double) userCount;
+        } else {
+            avgPostCountPerUser = 0;
+        }
+
+        if (userCount > 0) {
+            avgCommentCountPerUser = commentCount / (double) userCount;
+        } else {
+            avgCommentCountPerUser = 0;
+        }
+
+        if (postCount > 0) {
+            avgCommentCountPerPost = commentCount / (double) postCount;
+        } else {
+            avgCommentCountPerPost = 0;
+        }
     }
 
     public int getUserCount() {
