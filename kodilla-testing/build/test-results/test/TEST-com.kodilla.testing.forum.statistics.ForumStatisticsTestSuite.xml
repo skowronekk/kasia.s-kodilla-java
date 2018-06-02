@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.testing.forum.statistics.ForumStatisticsTestSuite" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-06-01T10:04:13" hostname="MacBook-Air-Kasia.local" time="0.016">
+  <properties/>
+  <testcase name="testCalculateAdvStatistics1" classname="com.kodilla.testing.forum.statistics.ForumStatisticsTestSuite" time="0.011"/>
+  <testcase name="testCalculateAdvStatistics2" classname="com.kodilla.testing.forum.statistics.ForumStatisticsTestSuite" time="0.002"/>
+  <testcase name="testCalculateAdvStatistics3" classname="com.kodilla.testing.forum.statistics.ForumStatisticsTestSuite" time="0.001"/>
+  <testcase name="testCalculateAdvStatistics4" classname="com.kodilla.testing.forum.statistics.ForumStatisticsTestSuite" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
