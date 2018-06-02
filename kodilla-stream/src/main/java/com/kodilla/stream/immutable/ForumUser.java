@@ -12,8 +12,8 @@ public final class ForumUser {
         return realName;
     }
 
-    public ForumUser(final String userName, final String realName) {
-        this.username = userName;
+    public ForumUser(final String username, final String realName) {
+        this.username = username;
         this.realName = realName;
 
     }
