@@ -10,6 +10,7 @@ public final class ForumUser {
     private final int numberOfUserPosts;
     private final LocalDate birthDate;
 
+
     public int getUserId() {
         return userId;
     }
