@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1d33d68-3b68-4978-b195-7e345447d9ba" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-stream/src/test/java/com/kodilla/stream/portfolio/BoardTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-stream/src/test/java/com/kodilla/stream/portfolio/BoardTestSuite.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -30,8 +30,8 @@
       <file leaf-file-name="BoardTestSuite.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kodilla-stream/src/test/java/com/kodilla/stream/portfolio/BoardTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="163" column="44" selection-start-line="163" selection-start-column="44" selection-end-line="163" selection-end-column="44" />
+            <state relative-caret-position="364">
+              <caret line="163" column="51" lean-forward="true" selection-start-line="163" selection-start-column="51" selection-end-line="163" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ForumStatisticsTestSuite.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/forum/statistics/ForumStatisticsTestSuite.java">
+      <file leaf-file-name="ArrayOperationsTestSuite.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-stream/src/test/java/com/kodilla/stream/array/ArrayOperationsTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-611">
-              <caret line="53" column="65" selection-start-line="53" selection-start-column="65" selection-end-line="53" selection-end-column="65" />
+            <state relative-caret-position="315">
+              <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -51,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ForumTestSuite.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/forum/tdd/ForumTestSuite.java">
+      <file leaf-file-name="ArrayOperations.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/array/ArrayOperations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1796">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="210">
+              <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -1077,16 +1077,6 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="stream" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="First project" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kodilla-stream" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="stream" type="462c0819:PsiDirectoryNode" />
               <item name="portfolio" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -1337,7 +1327,7 @@
       <workItem from="1526832754497" duration="7257000" />
       <workItem from="1526936297345" duration="228000" />
       <workItem from="1526936629918" duration="124693000" />
-      <workItem from="1528047471339" duration="19202000" />
+      <workItem from="1528047471339" duration="20541000" />
     </task>
     <servers />
   </component>
@@ -1374,7 +1364,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156049000" />
+    <option name="totallyTimeSpent" value="157388000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="775" extended-state="0" />
@@ -1398,10 +1388,10 @@
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.28318584" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.28318584" />
       <window_info anchor="bottom" id="Spring" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.37315634" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26067746" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.37315634" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26067746" />
       <window_info anchor="right" id="Bean Validation" order="9" />
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="right" id="Gradle" order="6" />
@@ -1819,13 +1809,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/array/ArrayOperations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/portfolio/Task.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1843,16 +1826,6 @@
             <element signature="e#1031#1032#0" expanded="true" />
             <element signature="e#1069#1070#0" expanded="true" />
             <element signature="e#1100#1101#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-stream/src/test/java/com/kodilla/stream/array/ArrayOperationsTestSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1938,10 +1911,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-stream/src/test/java/com/kodilla/stream/array/ArrayOperationsTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/array/ArrayOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/kodilla-stream/src/test/java/com/kodilla/stream/portfolio/BoardTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="163" column="44" selection-start-line="163" selection-start-column="44" selection-end-line="163" selection-end-column="44" />
+        <state relative-caret-position="364">
+          <caret line="163" column="51" lean-forward="true" selection-start-line="163" selection-start-column="51" selection-end-line="163" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
