@@ -4,7 +4,7 @@ import java.time.LocalDateTime;
 
 public class ExtraFoodShopOrderService implements OrderService {
     @Override
-    public boolean order(User user, LocalDateTime orderDate, Shop shop) {
+    public boolean process(User user, LocalDateTime orderDate, Shop shop) {
         System.out.println("Extra 20% off green tea ");
         return true;
 

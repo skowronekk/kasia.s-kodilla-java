@@ -4,7 +4,7 @@ import java.time.LocalDateTime;
 
 public class GlutenFreeShopOrderService implements OrderService {
     @Override
-    public boolean order(User user, LocalDateTime orderDate, Shop shop) {
+    public boolean process(User user, LocalDateTime orderDate, Shop shop) {
         System.out.println("Any 3 for 2 Cheapest Product Free");
         return true;
     }

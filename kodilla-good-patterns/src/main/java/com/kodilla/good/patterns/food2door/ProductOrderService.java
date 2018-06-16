@@ -11,8 +11,8 @@ public class ProductOrderService {
         this.orderService = orderService;
     }
 
-    public OrderDto process(final OrderRequest orderRequest) {
-        boolean isOrdered = orderService.order(orderRequest.getUser(), orderRequest.getOrderDate(),
+    public OrderDto order(final OrderRequest orderRequest) {
+        boolean isOrdered = orderService.process(orderRequest.getUser(), orderRequest.getOrderDate(),
                 orderRequest.getShop());
 
         if (isOrdered) {
